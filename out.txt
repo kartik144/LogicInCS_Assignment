@@ -1,0 +1,6 @@
+Please Enter the infix expression:
+(((((~a+~q)+(c+d))*((~a+~q)+(c+q)))*(((~a+(~p+~q))+(c+d))*((~a+(~p+~q))+(c+q))))*((((b+~q)+(c+d))*((b+~q)+(c+q)))*(((b+(~p+~q))+(c+d))*((b+(~p+~q))+(c+q)))))
+The propositional formula is not valid
+Size of tree is 16
+Size of cnf form is 87
+The size of cnf formula is 5.437500 times of that of the size of input logical formula
